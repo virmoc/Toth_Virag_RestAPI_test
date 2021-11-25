@@ -1,0 +1,44 @@
+{
+  "konyvek": [
+    {
+      "szerzo": "Mégsem ő a szerző",
+      "cim": "Cím se ez",
+      "ar": "0",
+      "tipus": "nincs is neki",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "szerzo": "Szabó Valaki",
+      "cim": "Legszebb cím",
+      "ar": 1700,
+      "tipus": "novella"
+    },
+    {
+      "szerzo": "Váradi Valaki",
+      "cim": "Csodás cím",
+      "ar": "1550",
+      "tipus": "vers",
+      "id": "bwPgzVa"
+    },
+    {
+      "szerzo": "Kiss",
+      "cim": "Cím címe",
+      "ar": "5",
+      "tipus": "regény",
+      "id": "efPHq2N"
+    }
+  ],
+  "szerzo": [
+    {
+      "id": "1",
+      "nev": "Nagy Valaki",
+      "nemzetiseg": "magyar"
+    },
+    {
+      "id": "1",
+      "nev": "Kis Valaki",
+      "nemzetiseg": "magyar"
+    }
+  ]
+}

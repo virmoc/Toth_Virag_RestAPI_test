@@ -1,0 +1,44 @@
+{
+    "konyvek": [
+      {
+        "id": "1",
+        "szerzo": "Nagy Valaki",
+        "cim": "Szép cím",
+        "ar": 1220,
+        "tipus": "regény"
+      },
+      {
+        "id": "2",
+        "szerzo": "Kiss Valaki",
+        "cim": "Még szebb cím",
+        "ar": 1500,
+        "tipus": "regény"
+      },
+      {
+        "id": "3",
+        "szerzo": "Szabó Valaki",
+        "cim": "Legszebb cím",
+        "ar": 1700,
+        "tipus": "novella"
+      },
+      {
+        "szerzo": "Váradi Valaki",
+        "cim": "Csodás cím",
+        "ar": "1550",
+        "tipus": "vers",
+        "id": "bwPgzVa"
+      }
+    ],
+    "szerzo": [
+      {
+        "id": "1",
+        "nev": "Nagy Valaki",
+        "nemzetiseg": "magyar"
+      },
+      {
+        "id": "1",
+        "nev": "Kis Valaki",
+        "nemzetiseg": "magyar"
+      }
+    ]
+  }
